@@ -1,0 +1,21 @@
+html, body {
+    padding: 0;
+    margin:  0;
+    width:   100%;
+    height:  100%;
+}
+
+.monk-section {
+    padding: 0;
+    margin:  0;
+    height:  100vh;
+    width:   100%;
+}
+
+.bg-color-hero {
+    background: linear-gradient(180deg, #15254F 20.31%, #091229 60.94%, #030816 100%);
+}
+
+.bg-color-primary {
+    background-color: #030816;
+}
